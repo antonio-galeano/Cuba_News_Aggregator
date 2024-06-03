@@ -6,6 +6,9 @@
 
 Cuba News Aggregator is a React-based web application designed to gather and display news articles from various independent Cuban news sources. This aggregator simplifies access to a range of articles by pulling RSS feeds and displaying them in a user-friendly interface.
 
+Demo: A live demo of this project is available in the Netlify Platform: https://cubanoide.netlify.app/
+Feel free to explore the application and see it in action!
+
 ## Features
 
 - **News Aggregation**: Automatically fetches and updates news articles from sources like Diario de Cuba, CiberCuba, ADN Cuba, 14yMedio, El Toque, and El Estornudo.
